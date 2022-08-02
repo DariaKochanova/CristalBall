@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="retos">
+        <item>Love</item>
+        <item>Money</item>
+        <item>Happy</item>
+        <item>Merry</item>
+        <item>Loser</item>
+    </string-array>
+</resources>
